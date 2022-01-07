@@ -3,7 +3,9 @@ CONTENTS OF THIS FILE
 
  * Introduction
  * Installation
+
  * Starting the App
+
   * Starting the Bot with Drush
   * Starting the Bot with bot_start.php
  * Using the Bot
